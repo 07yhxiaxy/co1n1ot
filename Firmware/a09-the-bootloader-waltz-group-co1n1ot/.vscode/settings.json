@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "conf_example.h": "c",
+        "conf_sd_mmc.h": "c"
+    }
+}
